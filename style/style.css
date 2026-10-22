@@ -1,0 +1,82 @@
+body {
+    background-color: whitesmoke;
+    font-family: Georgia;
+}
+main {
+    display: grid;
+    grid-template-rows: 2;
+    justify-content: center;
+    text-align: center;
+    height: 50%;
+    width: 50%;
+    margin: auto;
+    margin-top: 20%;
+    color: darkred;
+}
+
+.button {
+    margin-top: auto;
+    text-align: center;
+    font-size: 18px;
+}
+
+div {
+    display: grid;
+    grid-template-rows: 2;
+    justify-content: center;
+    height: 50%;
+    width: 50%;
+    margin: auto;
+    margin-top: 20%;
+    font-size: 18px;
+}
+
+div2 {
+    display: grid;
+    grid-template-rows: 1;
+    justify-content: center;
+    height: 50%;
+    width: 50%;
+    margin: auto;
+    margin-top: 12%;
+    font-size: 18px;
+}
+
+#autN {
+    display: grid;
+    grid-template-rows: 1;
+    justify-content: center;
+    height: 50%;
+    width: 50%;
+    margin: auto;
+    margin-top: 14.5%;
+    font-size: 18px;
+}
+
+.lvl1 {
+    color:black
+}
+
+.lvl2 {
+    color: rgb(54, 1, 1);
+}
+
+.lvl3 {
+    color:rgb(107, 2, 2);
+}
+
+.lvl4 {
+    color:rgb(128, 0, 0);
+}
+
+.lvl5 {
+    color:rgb(165, 0, 0);
+}
+
+.lvl6 {
+    color:rgb(199, 0, 0);
+}
+
+.lvl7 {
+    color:rgb(241, 0, 0);
+}
