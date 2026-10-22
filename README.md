@@ -1,2 +1,1 @@
-# CCT360-template
-CCT Github Template
+# SOC388 Learning by Teaching Assignment
